@@ -15,7 +15,7 @@ decoding and hardware efficiency with zero quality loss
 against the FP32 baseline.**
 
 I. INTRODUCTION
-he rapid evolution of the digital era has precipitated
+The rapid evolution of the digital era has precipitated
 an unprecedented surge in data volume, with video
 content currently constituting the preponderant share
 of global network traffic. While Neural Video Codecs (NVCs)
@@ -68,7 +68,6 @@ errors, thereby ensuring consistent decoding results across
 different platforms while fully leveraging the Int8 acceleration
 capabilities of mobile hardware.
 ```
-# T
 
 
 In contrast, we retain FP16 precision for the encoder-side
