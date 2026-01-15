@@ -15,6 +15,7 @@ decoding and hardware efficiency with zero quality loss
 against the FP32 baseline.**
 
 I. INTRODUCTION
+
 The rapid evolution of the digital era has precipitated
 an unprecedented surge in data volume, with video
 content currently constituting the preponderant share
@@ -90,6 +91,7 @@ the severe performance penalties typically observed in fully
 quantized frameworks.
 
 II. RELATED WORKS
+
 A. _Real-Time Neural Video Compression_
 As Neural Video Codecs (NVCs) have gradually surpassed
 traditional coding standards, such as H.265/HEVC and
