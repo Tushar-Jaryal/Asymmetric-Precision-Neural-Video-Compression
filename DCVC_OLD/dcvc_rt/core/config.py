@@ -1,0 +1,2 @@
+DCVC_VERSION = "cvpr2025"
+DEFAULT_DEVICE = "cuda"

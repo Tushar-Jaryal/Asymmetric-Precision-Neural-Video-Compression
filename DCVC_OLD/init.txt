@@ -1,0 +1,5 @@
+unset CUDA_HOME
+unset CMAKE_CUDA_COMPILER
+export CUDA_HOME=$CONDA_PREFIX
+echo $CUDA_HOME
+export PYTHONPATH=$PWD/src/layers/extensions/inference:$PYTHONPATH
