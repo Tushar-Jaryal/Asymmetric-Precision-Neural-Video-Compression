@@ -194,7 +194,7 @@ If you use this work, please cite:
 ```bibtex
 @misc{dcvc_int8_lsq,
   title={INT8 Neural Video Decoding with Learned Step Size Quantization},
-  author={Tushar Jaryal},
+  author={Wei-Jung Tsao, Tushar Jaryal, Ting-Yuan Chang},
   year={2026}
 }
 ```
